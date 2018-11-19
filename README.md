@@ -1,5 +1,5 @@
 # EPrintsMARC
-MARC Import/Export Plugin
+MARC Import/Export Plugin as Configured at Concordia University
 
 Loading MARC-encoded files into EPrints requires the installation of 
 the import/export plugin, initially developed by Romero and Miguel (http://files.eprints.org/323/) and 
