@@ -6,6 +6,6 @@ the import/export plugin, initially developed by Romero and Miguel (http://files
 updated here by Tomasz Neugebauer and Adam Field.
 
 The installation of this plugin requires the following two CPAN modules:
-MARC::Record and MARC::File::USMARC. The MARC plugin was then 
+MARC::Record, MARC::File::USMARC, MARC::File::XML. The MARC plugin was then 
 subclassed to create an import plugin named "Concordia Theses" 
 which is customized for thesis MARC records at Concordia University in Montreal.
